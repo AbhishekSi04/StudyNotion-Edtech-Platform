@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:["http://localhost:3000", "https://study-notion-edtech-platform-cn3c.vercel.app"], // Allow localhost and deployed frontend
+		origin:["http://localhost:3000", "https://study-notion-edtech-platform-crfw.vercel.app/"], // Allow localhost and deployed frontend
 		credentials:true,
 	})
 )
