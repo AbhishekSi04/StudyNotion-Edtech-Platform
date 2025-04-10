@@ -1,5 +1,5 @@
-const REACT_APP_BASE_URL =  "http://localhost:4000/api/v1"
-// const REACT_APP_BASE_URL =  "http://studynotion-backend15-izs3.onrender.com/api/v1"
+// const REACT_APP_BASE_URL =  "http://localhost:4000/api/v1"
+const REACT_APP_BASE_URL =  "https://studynotion-backend15-izs3.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
